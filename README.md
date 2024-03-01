@@ -7,16 +7,23 @@ This project is a recommendation system for cryptocurrency prices. It allows use
 
 ### *Technologies Used:*
 *Frontend:* HTML, CSS, JavaScript (Bootstrap)
+
 *Backend:* Python (Flask)
+
 *Machine Learning:* Random Forest Regression
 
 
 ### *Project Files:*
 *app.py:* Python script containing the Flask app logic, including data loading, model training, prediction, and routing.
+
 *index.html:* Main HTML file for the user interface.
+
 *index1.html:* Login page HTML file. (Currently not functional)
+
 *pass1.html:* HTML file displaying the predicted price, market sentiment graph, and QR code for buy/sell options.
+
 *index1.css, pass1.css:* CSS files for styling the user interface.
+
 
 ### *How to Run the Project:*
 Make sure you have Python (version 3.6 or later) and the required libraries (Flask, pandas, numpy, sklearn) installed. You can install them using pip install flask pandas numpy scikit-learn.
@@ -26,6 +33,7 @@ Run the following command: python app.py
 Open http://127.0.0.1:5000/ in your web browser to access the application.
 
 ### *Disclaimer:*
+
 This project is for educational purposes only and should not be considered financial advice. Cryptocurrency trading involves significant risks, and you should always conduct your own research before making any investment decisions.
 
 
