@@ -27,8 +27,5 @@ Open http://127.0.0.1:5000/ in your web browser to access the application.
 
 ### *Disclaimer:*
 This project is for educational purposes only and should not be considered financial advice. Cryptocurrency trading involves significant risks, and you should always conduct your own research before making any investment decisions.
-<img
-  src="[/path/to/img.jpg](https://res.cloudinary.com/dvp9gkjpk/image/upload/v1688822860/login_image_spgg4s.webp)"
-  alt="Alt text"
-  title="Optional title"
-  style="display: inline-block; margin: 0 auto; max-width: 300px">
+
+![Alt text]([/posts/path/to/img.jpg](https://res.cloudinary.com/dvp9gkjpk/image/upload/v1689779197/back_jk2zcm.jpg)https://res.cloudinary.com/dvp9gkjpk/image/upload/v1689779197/back_jk2zcm.jpg "Optional title")
